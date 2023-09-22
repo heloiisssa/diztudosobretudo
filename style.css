@@ -9,6 +9,7 @@ background-image: linear-gradient(90deg, #e5fa61 0%, #f0ed39 100%);
 
 nav li {
     display: inline;
+    padding: 20px;
 }
 
 #banner {
